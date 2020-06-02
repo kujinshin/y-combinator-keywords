@@ -1,0 +1,9 @@
+spacy
+seaborn
+wordcloud
+pillow
+nltk
+pandas
+requests
+jupyter
+matplotlib
